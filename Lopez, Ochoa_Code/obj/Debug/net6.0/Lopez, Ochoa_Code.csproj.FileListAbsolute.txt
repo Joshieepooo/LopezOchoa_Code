@@ -1,0 +1,15 @@
+C:\Users\Joshua Lopez\Desktop\Code Space\Visual Studio\Comprog Finals - Pairs\Lopez, Ochoa_Code\Lopez, Ochoa_Code\bin\Debug\net6.0\Lopez, Ochoa_Code.exe
+C:\Users\Joshua Lopez\Desktop\Code Space\Visual Studio\Comprog Finals - Pairs\Lopez, Ochoa_Code\Lopez, Ochoa_Code\bin\Debug\net6.0\Lopez, Ochoa_Code.deps.json
+C:\Users\Joshua Lopez\Desktop\Code Space\Visual Studio\Comprog Finals - Pairs\Lopez, Ochoa_Code\Lopez, Ochoa_Code\bin\Debug\net6.0\Lopez, Ochoa_Code.runtimeconfig.json
+C:\Users\Joshua Lopez\Desktop\Code Space\Visual Studio\Comprog Finals - Pairs\Lopez, Ochoa_Code\Lopez, Ochoa_Code\bin\Debug\net6.0\Lopez, Ochoa_Code.dll
+C:\Users\Joshua Lopez\Desktop\Code Space\Visual Studio\Comprog Finals - Pairs\Lopez, Ochoa_Code\Lopez, Ochoa_Code\bin\Debug\net6.0\Lopez, Ochoa_Code.pdb
+C:\Users\Joshua Lopez\Desktop\Code Space\Visual Studio\Comprog Finals - Pairs\Lopez, Ochoa_Code\Lopez, Ochoa_Code\obj\Debug\net6.0\Lopez, Ochoa_Code.csproj.AssemblyReference.cache
+C:\Users\Joshua Lopez\Desktop\Code Space\Visual Studio\Comprog Finals - Pairs\Lopez, Ochoa_Code\Lopez, Ochoa_Code\obj\Debug\net6.0\Lopez, Ochoa_Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joshua Lopez\Desktop\Code Space\Visual Studio\Comprog Finals - Pairs\Lopez, Ochoa_Code\Lopez, Ochoa_Code\obj\Debug\net6.0\Lopez, Ochoa_Code.AssemblyInfoInputs.cache
+C:\Users\Joshua Lopez\Desktop\Code Space\Visual Studio\Comprog Finals - Pairs\Lopez, Ochoa_Code\Lopez, Ochoa_Code\obj\Debug\net6.0\Lopez, Ochoa_Code.AssemblyInfo.cs
+C:\Users\Joshua Lopez\Desktop\Code Space\Visual Studio\Comprog Finals - Pairs\Lopez, Ochoa_Code\Lopez, Ochoa_Code\obj\Debug\net6.0\Lopez, Ochoa_Code.csproj.CoreCompileInputs.cache
+C:\Users\Joshua Lopez\Desktop\Code Space\Visual Studio\Comprog Finals - Pairs\Lopez, Ochoa_Code\Lopez, Ochoa_Code\obj\Debug\net6.0\Lopez, Ochoa_Code.dll
+C:\Users\Joshua Lopez\Desktop\Code Space\Visual Studio\Comprog Finals - Pairs\Lopez, Ochoa_Code\Lopez, Ochoa_Code\obj\Debug\net6.0\refint\Lopez, Ochoa_Code.dll
+C:\Users\Joshua Lopez\Desktop\Code Space\Visual Studio\Comprog Finals - Pairs\Lopez, Ochoa_Code\Lopez, Ochoa_Code\obj\Debug\net6.0\Lopez, Ochoa_Code.pdb
+C:\Users\Joshua Lopez\Desktop\Code Space\Visual Studio\Comprog Finals - Pairs\Lopez, Ochoa_Code\Lopez, Ochoa_Code\obj\Debug\net6.0\Lopez, Ochoa_Code.genruntimeconfig.cache
+C:\Users\Joshua Lopez\Desktop\Code Space\Visual Studio\Comprog Finals - Pairs\Lopez, Ochoa_Code\Lopez, Ochoa_Code\obj\Debug\net6.0\ref\Lopez, Ochoa_Code.dll
